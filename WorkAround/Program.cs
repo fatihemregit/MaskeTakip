@@ -71,7 +71,7 @@ namespace WorkAround
             Person person1 = new Person();
             person1.FirstName = "FATİH EMRE";
             person1.LastName = "KILINÇ";
-            person1.DateOfBirthYear = 2003;
+            person1.DateOfBirthYear = 2024;
             person1.NationalIdentity = 11111111110;
 
             PttManager pttManager = new PttManager(new PersonManager());
